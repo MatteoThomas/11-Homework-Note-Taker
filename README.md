@@ -21,7 +21,7 @@ So that I can organize my thoughts and keep track of tasks I need to complete.
 
 # Installation
 
-[Note Taker App](https://notetakerheartbreaker.herokuapp.com/) On Heroku 
+[Note Taker App](https://notetakerheartbreaker.herokuapp.com/) Heroku 
 
 # Contributors
 
