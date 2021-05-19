@@ -16,7 +16,7 @@ This application will use an Express.js back end and will save and retrieve note
 
 As a user
 I want to be able to write and save notes
-So that I can organize my thoughts and keep track of tasks I need to complete
+So that I can organize my thoughts and keep track of tasks I need to complete.
 
 # Installation
 
