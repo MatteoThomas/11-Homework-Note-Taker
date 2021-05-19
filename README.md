@@ -1,12 +1,12 @@
 # Express.js: Note Taker
 
-1. [Description](#YourTask)
-2. [User Story](#UserStory)
-3. [Installation](#Installation)
-4. [Contributors](#Contributors)
-5. [Screenshot](#Screenshot)
-6. [Contact](#Contact)
-7. [License](#License)
+[Description](#YourTask)
+[User Story](#UserStory)
+[Installation](#Installation)
+[Contributors](#Contributors)
+[Screenshot](#Screenshot)
+[Contact](#Contact)
+[License](#License)
 
 # Description
 
