@@ -1,8 +1,8 @@
 # Express.js: Note Taker
 
-⋅⋅* [Description](#YourTask)
+* [Description](#YourTask)
 
-⋅⋅* [User Story](#UserStory)
+* [User Story](#UserStory)
 
 ⋅⋅* [Installation](#Installation)
 
