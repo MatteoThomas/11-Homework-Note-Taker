@@ -4,6 +4,7 @@ const fs = require("fs");
 
 
 router.get('/notes', (req, res) => {
+    console.log("API / Notes")
     store
         .getNotes()
         .then(notes => {

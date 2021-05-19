@@ -1,8 +1,1 @@
-[
-  { "title": "1231", "text": "123123", "id": 530923 },
-  { "title": "Important", "text": "note", "id": 436193 },
-  { "title": "New note", "text": "new note", "id": 724866 },
-  { "title": "test", "text": "test", "id": 864528 },
-  { "title": "test2", "text": "test2\n", "id": 969113 },
-  { "title": "new test", "text": "new test", "id": 407615 }
-]
+[{"title":"1231","text":"123123","id":530923},{"title":"Important","text":"note","id":436193},{"title":"New note","text":"new note","id":724866},{"title":"test","text":"test","id":864528},{"title":"test2","text":"test2\n","id":969113},{"title":"new test","text":"new test","id":407615},{"title":"fghjghj","text":"ghghjkhgj","id":"71a2cc90-b893-11eb-8e33-a97106f17ecf"},{"title":"yujtyty","text":"tyktukyuy","id":"aa40bf60-b895-11eb-8cb2-c4b260a5732f"}]
